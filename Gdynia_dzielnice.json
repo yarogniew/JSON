@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "zasob": "1.2 Dzielnice",
+    "aktualizacja": "dzienna",
+    "url": "http://otwartedane.gdynia.pl/portal/data/city/1/2/data.json"
+  },
+  "data": [
+    {
+      "gestosc_zaludnienia": 2801,
+      "liczba_ludnosci": 8289,
+      "powierzchnia": 2.96,
+      "dzielnica": "Redłowo",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1110,
+      "liczba_ludnosci": 12757,
+      "powierzchnia": 11.49,
+      "dzielnica": "Śródmieście",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 732,
+      "liczba_ludnosci": 11002,
+      "powierzchnia": 15.03,
+      "dzielnica": "Wielki Kack",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2585,
+      "liczba_ludnosci": 8471,
+      "powierzchnia": 3.28,
+      "dzielnica": "Witomino Leśniczówka",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1883,
+      "liczba_ludnosci": 9841,
+      "powierzchnia": 5.23,
+      "dzielnica": "Witomino Radiostacja",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 5954,
+      "liczba_ludnosci": 11639,
+      "powierzchnia": 1.95,
+      "dzielnica": "Wzgórze Św. Maksymiliana",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 952,
+      "liczba_ludnosci": 2108,
+      "powierzchnia": 2.21,
+      "dzielnica": "Babie Doły",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 418,
+      "liczba_ludnosci": 10674,
+      "powierzchnia": 25.53,
+      "dzielnica": "Chwarzno-Wiczlino",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 6071,
+      "liczba_ludnosci": 23298,
+      "powierzchnia": 3.84,
+      "dzielnica": "Chylonia",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2088,
+      "liczba_ludnosci": 12074,
+      "powierzchnia": 5.78,
+      "dzielnica": "Cisowa",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2291,
+      "liczba_ludnosci": 14258,
+      "powierzchnia": 6.22,
+      "dzielnica": "Dąbrowa",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 4037,
+      "liczba_ludnosci": 7858,
+      "powierzchnia": 1.95,
+      "dzielnica": "Działki Leśne",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2144,
+      "liczba_ludnosci": 9392,
+      "powierzchnia": 4.38,
+      "dzielnica": "Grabówek",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 6313,
+      "liczba_ludnosci": 4075,
+      "powierzchnia": 0.65,
+      "dzielnica": "Kamienna Góra",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 3080,
+      "liczba_ludnosci": 10448,
+      "powierzchnia": 3.39,
+      "dzielnica": "Karwiny",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 3421,
+      "liczba_ludnosci": 14940,
+      "powierzchnia": 4.37,
+      "dzielnica": "Oksywie",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2781,
+      "liczba_ludnosci": 8232,
+      "powierzchnia": 2.96,
+      "dzielnica": "Redłowo",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1085,
+      "liczba_ludnosci": 12473,
+      "powierzchnia": 11.49,
+      "dzielnica": "Śródmieście",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 729,
+      "liczba_ludnosci": 10963,
+      "powierzchnia": 15.03,
+      "dzielnica": "Wielki Kack",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 941,
+      "liczba_ludnosci": 2079,
+      "powierzchnia": 2.21,
+      "dzielnica": "Babie Doły",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 440,
+      "liczba_ludnosci": 11230,
+      "powierzchnia": 25.53,
+      "dzielnica": "Chwarzno-Wiczlino",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 5934,
+      "liczba_ludnosci": 22788,
+      "powierzchnia": 3.84,
+      "dzielnica": "Chylonia",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2044,
+      "liczba_ludnosci": 11813,
+      "powierzchnia": 5.78,
+      "dzielnica": "Cisowa",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2275,
+      "liczba_ludnosci": 14152,
+      "powierzchnia": 6.22,
+      "dzielnica": "Dąbrowa",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 968,
+      "liczba_ludnosci": 2145,
+      "powierzchnia": 2.21,
+      "dzielnica": "Babie Doły",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 6173,
+      "liczba_ludnosci": 23687,
+      "powierzchnia": 3.84,
+      "dzielnica": "Chylonia",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2966,
+      "liczba_ludnosci": 8157,
+      "powierzchnia": 2.75,
+      "dzielnica": "Leszczynki",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1109,
+      "liczba_ludnosci": 8804,
+      "powierzchnia": 7.94,
+      "dzielnica": "Mały Kack",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 5192,
+      "liczba_ludnosci": 18999,
+      "powierzchnia": 3.66,
+      "dzielnica": "Obłuże",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1383,
+      "liczba_ludnosci": 6949,
+      "powierzchnia": 5.02,
+      "dzielnica": "Orłowo",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 5549,
+      "liczba_ludnosci": 13116,
+      "powierzchnia": 2.36,
+      "dzielnica": "Pogórze",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 554,
+      "liczba_ludnosci": 8409,
+      "powierzchnia": 15.18,
+      "dzielnica": "Pustki Cisowskie-Demptowo",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 399,
+      "liczba_ludnosci": 10197,
+      "powierzchnia": 25.53,
+      "dzielnica": "Chwarzno-Wiczlino",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2118,
+      "liczba_ludnosci": 12244,
+      "powierzchnia": 5.78,
+      "dzielnica": "Cisowa",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2312,
+      "liczba_ludnosci": 14385,
+      "powierzchnia": 6.22,
+      "dzielnica": "Dąbrowa",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 4115,
+      "liczba_ludnosci": 8009,
+      "powierzchnia": 1.95,
+      "dzielnica": "Działki Leśne",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2181,
+      "liczba_ludnosci": 9552,
+      "powierzchnia": 4.38,
+      "dzielnica": "Grabówek",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 6488,
+      "liczba_ludnosci": 4188,
+      "powierzchnia": 0.65,
+      "dzielnica": "Kamienna Góra",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 3951,
+      "liczba_ludnosci": 7705,
+      "powierzchnia": 1.95,
+      "dzielnica": "Działki Leśne",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2108,
+      "liczba_ludnosci": 9231,
+      "powierzchnia": 4.38,
+      "dzielnica": "Grabówek",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 6137,
+      "liczba_ludnosci": 3989,
+      "powierzchnia": 0.65,
+      "dzielnica": "Kamienna Góra",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 3036,
+      "liczba_ludnosci": 10292,
+      "powierzchnia": 3.39,
+      "dzielnica": "Karwiny",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2916,
+      "liczba_ludnosci": 8020,
+      "powierzchnia": 2.75,
+      "dzielnica": "Leszczynki",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1142,
+      "liczba_ludnosci": 9069,
+      "powierzchnia": 7.94,
+      "dzielnica": "Mały Kack",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 5117,
+      "liczba_ludnosci": 18727,
+      "powierzchnia": 3.66,
+      "dzielnica": "Obłuże",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 3416,
+      "liczba_ludnosci": 14926,
+      "powierzchnia": 4.37,
+      "dzielnica": "Oksywie",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1371,
+      "liczba_ludnosci": 6882,
+      "powierzchnia": 5.02,
+      "dzielnica": "Orłowo",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 5469,
+      "liczba_ludnosci": 12908,
+      "powierzchnia": 2.36,
+      "dzielnica": "Pogórze",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 553,
+      "liczba_ludnosci": 8398,
+      "powierzchnia": 15.18,
+      "dzielnica": "Pustki Cisowskie-Demptowo",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2763,
+      "liczba_ludnosci": 8179,
+      "powierzchnia": 2.96,
+      "dzielnica": "Redłowo",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1054,
+      "liczba_ludnosci": 12113,
+      "powierzchnia": 11.49,
+      "dzielnica": "Śródmieście",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 728,
+      "liczba_ludnosci": 10936,
+      "powierzchnia": 15.03,
+      "dzielnica": "Wielki Kack",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2497,
+      "liczba_ludnosci": 8189,
+      "powierzchnia": 3.28,
+      "dzielnica": "Witomino Leśniczówka",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1820,
+      "liczba_ludnosci": 9518,
+      "powierzchnia": 5.23,
+      "dzielnica": "Witomino Radiostacja",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 5785,
+      "liczba_ludnosci": 11281,
+      "powierzchnia": 1.95,
+      "dzielnica": "Wzgórze Św. Maksymiliana",
+      "dzien": "2017-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 3126,
+      "liczba_ludnosci": 10605,
+      "powierzchnia": 3.39,
+      "dzielnica": "Karwiny",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2996,
+      "liczba_ludnosci": 8240,
+      "powierzchnia": 2.75,
+      "dzielnica": "Leszczynki",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1097,
+      "liczba_ludnosci": 8716,
+      "powierzchnia": 7.95,
+      "dzielnica": "Mały Kack",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 5275,
+      "liczba_ludnosci": 19302,
+      "powierzchnia": 3.66,
+      "dzielnica": "Obłuże",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 3408,
+      "liczba_ludnosci": 14885,
+      "powierzchnia": 4.37,
+      "dzielnica": "Oksywie",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1399,
+      "liczba_ludnosci": 7027,
+      "powierzchnia": 5.02,
+      "dzielnica": "Orłowo",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 5659,
+      "liczba_ludnosci": 13378,
+      "powierzchnia": 2.36,
+      "dzielnica": "Pogórze",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 559,
+      "liczba_ludnosci": 8486,
+      "powierzchnia": 15.18,
+      "dzielnica": "Pustki Cisowskie-Demptowo",
+      "dzien": "2015-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 2551,
+      "liczba_ludnosci": 8362,
+      "powierzchnia": 3.28,
+      "dzielnica": "Witomino Leśniczówka",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 1858,
+      "liczba_ludnosci": 9712,
+      "powierzchnia": 5.23,
+      "dzielnica": "Witomino Radiostacja",
+      "dzien": "2016-12-31"
+    },
+    {
+      "gestosc_zaludnienia": 5840,
+      "liczba_ludnosci": 11397,
+      "powierzchnia": 1.95,
+      "dzielnica": "Wzgórze Św. Maksymiliana",
+      "dzien": "2016-12-31"
+    }
+  ]
+}
