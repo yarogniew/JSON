@@ -1,4 +1,5 @@
 var jsondata;
+var button, input;
 
 function preload() {
   jsondata = loadJSON("Zakaz_handlu_2018.json")
@@ -10,27 +11,25 @@ function preload() {
 
 
 function setup() {
-  console.log(jsondata);
-    //loadJSON("http://otwartedane.gdynia.pl/portal/data/city/1/2/data.json", gotData, 'jsonp');
-  // create canvas
+  //console.log(jsondata);
   //createCanvas(710, 400);
   noCanvas();
-  createElement ('p', "Sklepy zamknięte w roku: ");
-  createElement('h1',  jsondata.meta.rok);
-
-  for( var i = 0; i < jsondata.data.length; i++){
-  //var prime = mainData.data.dzielnica[7];
-  //createP(prime);
-
-  createElement('h4', jsondata.data[i].miesiac);
-  for( var j = 0; j < jsondata.data[i].dzien.length; j++){
-    createElement('div', jsondata.data[i].dzien[j]);
-  }
-  // createElement('p', "dzień = " + jsondata.data[i].gestosc_zaludnienia);
-  // createElement('p', "liczba ludności = " + jsondata.data[i].liczba_ludnosci);
-  // createElement('p', "powierzchnia = " + jsondata.data[i].powierzchnia);
-  // createElement('p', "dane z dnia: " + jsondata.data[i].dzien);
+  button = createButton("wyświetl dane");
+  button.mousePressed(wyswietlDane);
   }
 
 //console.log(JSONdata.data.length);
+
+
+function wyswietlDane(){
+
+createElement ('p', "Sklepy zamknięte w roku: ");
+createElement('h1',  jsondata.meta.rok);
+
+for( var i = 0; i < jsondata.data.length; i++){
+createElement('div', jsondata.data[i].miesiac);
+for( var j = 0; j < jsondata.data[i].dzien.length; j++){
+  createElement('div', jsondata.data[i].dzien[j]);
+  }
+}
 }
