@@ -1,0 +1,28 @@
+
+{
+"meta": {
+  "dotyczy": "Zakaz handlu",
+  "rok": 2018,
+  "url" :  "http://www.pomorska.pl/strefa-biznesu/wiadomosci/a/sklepy-zamkniete-w-niedziele-2018-kiedy-data-lista-15042018,12588980/2/"
+},
+  "data": [
+    {"miesiac": "kwiecień",
+     "dzien": [1, 8, 15, 22]},
+    {"miesiac": "maj",
+      "dzien": [13, 20]},
+    {"miesiac": "czerwiec",
+      "dzien": [10, 17]},
+    {"miesiac": "lipiec",
+      "dzien": [8, 15, 22]},
+    {"miesiac": "sierpień",
+      "dzien": [12, 19]},
+    {"miesiac": "wrzesień",
+      "dzien": [9, 16, 23]},
+    {"miesiac": "październik",
+      "dzien": [14, 21]},
+    {"miesiac": "listopad",
+      "dzien": [11, 18]},
+    {"miesiac": "grudzień",
+      "dzien": [9]}
+    ]
+}
